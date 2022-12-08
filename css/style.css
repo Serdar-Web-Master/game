@@ -1,0 +1,25 @@
+
+.wrapper {
+}
+.header {
+}
+.container {
+}
+.main {
+    flex: 1 1 auto;
+}
+
+.body-item {
+position: relative;
+}
+.door {
+    position: absolute;
+    margin : 100px 90px 10px 90px;
+    background-color: aqua;
+    width: 50px;
+    height: 95px;
+
+}
+
+.footer {
+}
