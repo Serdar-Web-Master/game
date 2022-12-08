@@ -2,12 +2,16 @@
 .wrapper {
 }
 .header {
+    display: flex;
+    margin-top: 20px;
+    font-size: 30px;
+    color: blue;
 }
 .container {
 }
 .main {
     flex: 1 1 auto;
-    margin-top: 15%;
+    margin-top: 5%;
 }
 
 .body-item {
