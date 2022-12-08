@@ -14,4 +14,5 @@ doors.forEach(function (element) {
 
 function anim () {
    this.classList.add("door-open")
+   console.log(this);
 }
