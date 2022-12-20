@@ -22,6 +22,13 @@ headerImg.addEventListener("click",()=>{
    console.log(x);
 })
 
+// const catImg = document.querySelector('.cat-img');
+
+
+// headerImg.addEventListener("click",()=>{
+//    catImg.classList.toggle('none');
+// })
+
 function catHere () {
    console.log(x);
    if (x==1) {
